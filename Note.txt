@@ -1,0 +1,8 @@
+https://redux-toolkit.js.org/rtk-query/usage/manual-cache-updates#optimistic-updates
+
+https://codesandbox.io/s/github/reduxjs/redux-toolkit/tree/master/examples/query/react/optimistic-update
+https://github.com/Annie-Huang/rtk-query-optimistic-update
+
+===============================================================================
+
+PS C:\react\rtk-query-optimistic-update> npm install --force
